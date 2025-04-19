@@ -4,7 +4,7 @@ import './App.css'
 
 import Navbar from './Components/Navbar';
 import Home from './Components/Home';
-import Paste from './Components/paste';
+import Paste from './Components/Paste';
 import ViewPaste from './Components/ViewPaste';
 
 
